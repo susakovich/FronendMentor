@@ -59,10 +59,12 @@ body {
 h4 {
   margin-bottom: -10px;
 }
+
 .change {
   padding-left: 20px;
   font-size: 14px;
 }
+
 .price {
   color: rgb(162, 153, 153);
 }
