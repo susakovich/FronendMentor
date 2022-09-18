@@ -86,6 +86,25 @@ h4 {
   text-decoration: none;
 }
 
+.order:hover {
+  color: #000;
+  font-weight: 600;
+}
+
+.change:hover {
+  text-decoration: none;
+}
+
+.payment:hover {
+  background-color: hsl(245, 52%, 57%);
+}
+
 .attribution {
   margin-top: 40px;
 }
+
+@media (min-width: 375px) {
+  .container {
+    width: 100%;
+  }
+} ;
